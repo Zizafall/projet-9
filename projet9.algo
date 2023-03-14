@@ -1,0 +1,16 @@
+ALGORITHM récessivité
+VAR
+    //declaration de variable//
+    caractére de chaine chr[ ].
+    debut d ; fin  f Interger
+BEGIN
+    // on vas demander a l'utilusateur de nous donnez de une mots svp//
+    write (donnez moi un mot )
+    read (chr)
+    IF (d > f ) THEN
+    return 1
+    END_IF
+    IF (chr [d] != ch [f]) THEN
+        return 0;
+    END_IF
+END
